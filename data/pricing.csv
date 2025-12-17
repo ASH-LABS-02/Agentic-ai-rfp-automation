@@ -1,0 +1,21 @@
+type,code,name,sku,price,category
+PRODUCT,,,"KEI-A2xfy/A2xwy-3.0C-240",2560,
+PRODUCT,,,"KEI-A2xfy/A2xwy-3.0C-300",3138,
+PRODUCT,,,"KEI-A2xfy/A2xwy-3.0C-400",3914,
+PRODUCT,,,"KEI-A2xy-3.0C-25",345,
+PRODUCT,,,"KEI-A2xy-3.0C-35",475,
+PRODUCT,,,"KEI-A2xy-3.0C-50",585,
+PRODUCT,,,"KEI-A2xfy/A2xwy-4.0C-16",1400,
+PRODUCT,,,"KEI-A2xfy/A2xwy-4.0C-25",1500,
+PRODUCT,,,"KEI-A2xfy/A2xwy-4.0C-35",1650,
+PRODUCT,,,"KEI-A2xfy/A2xwy-4.0C-50",1800,
+PRODUCT,,,"KEI-A2xfy/A2xwy-4.0C-70",2100,
+PRODUCT,,,"KEI-A2xfy/A2xwy-4.0C-95",2400,
+
+TEST,TEST-HV,"High Voltage Test",,50000,Type Test
+TEST,TEST-IR,"Insulation Resistance Test",,30000,Routine Test
+TEST,TEST-FR,"Flame Retardant Test",,70000,Special Test
+TEST,TEST-SD,"Smoke Density Test",,60000,Special Test
+TEST,TEST-TEN,"Tensile Test",,40000,Mechanical Test
+TEST,TEST-WRAP,"Wrapping Test",,35000,Mechanical Test
+TEST,TEST-ACC,"Acceptance Test",,55000,Acceptance Test

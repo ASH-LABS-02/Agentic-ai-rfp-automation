@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Agentic AI – Tender Monitoring Portal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ================= STYLE ================= -->
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Roboto, sans-serif;
+            background: #0B1220;
+            color: #E5E7EB;
+        }
+
+        header {
+            background: linear-gradient(90deg, #0A2A66, #2563EB);
+            padding: 24px 32px;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        header p {
+            margin-top: 6px;
+            opacity: 0.9;
+        }
+
+        .container {
+            padding: 32px;
+            max-width: 1100px;
+            margin: auto;
+        }
+
+        .card {
+            background: #111827;
+            border-radius: 18px;
+            padding: 24px;
+            margin-bottom: 28px;
+            border: 1px solid #1F2937;
+            box-shadow: 0 10px 28px rgba(0,0,0,0.4);
+        }
+
+        .card h2 {
+            margin-top: 0;
+            color: #38BDF8;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 14px;
+            color: #9CA3AF;
+        }
+
+        input, select, button {
+            width: 100%;
+            padding: 12px;
+            border-radius: 10px;
+            border: none;
+            outline: none;
+            font-size: 15px;
+        }
+
+        input, select {
+            background: #020617;
+            color: #E5E7EB;
+            border: 1px solid #1E293B;
+            margin-bottom: 16px;
+        }
+
+        button {
+            background: linear-gradient(90deg, #2563EB, #1D4ED8);
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            opacity: 0.9;
+            transform: translateY(-1px);
+        }
+
+        .status {
+            padding: 14px;
+            border-radius: 12px;
+            background: #020617;
+            border: 1px dashed #334155;
+            font-size: 14px;
+        }
+
+        .status span {
+            color: #22C55E;
+            font-weight: bold;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 20px;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 12px;
+            color: #9CA3AF;
+            padding-bottom: 24px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>⚡ Agentic AI – Tender Monitoring System</h1>
+    <p>Autonomous discovery, evaluation & bid generation for PSU / Govt tenders</p>
+</header>
+
+<div class="container">
+
+    <!-- ================= AUTO FETCH ================= -->
+    <div class="card">
+        <h2>🎯 Auto-Fetch Tender from Website</h2>
+
+        <label>Mock Tender Website URL</label>
+        <input id="tenderUrl" placeholder="https://mock-tender-portal.gov.in/latest.pdf">
+
+        <button onclick="fetchTender()">Fetch & Evaluate Tender</button>
+
+        <div id="fetchStatus" class="status" style="margin-top:16px;">
+            Status: <span>Idle</span>
+        </div>
+    </div>
+
+    <!-- ================= SCHEDULER ================= -->
+    <div class="card">
+        <h2>⏱ Tender Monitoring Scheduler</h2>
+
+        <div class="grid">
+            <div>
+                <label>Check Frequency</label>
+                <select id="frequency">
+                    <option value="15">Every 15 Minutes</option>
+                    <option value="30">Every 30 Minutes</option>
+                    <option value="60">Every 1 Hour</option>
+                    <option value="1440">Once Daily</option>
+                </select>
+            </div>
+
+            <div>
+                <label>Tender Source</label>
+                <select id="source">
+                    <option>CPWD</option>
+                    <option>IOCL</option>
+                    <option>NTPC</option>
+                    <option>Railways</option>
+                    <option>State PSU</option>
+                </select>
+            </div>
+        </div>
+
+        <button onclick="startScheduler()">Start Monitoring</button>
+
+        <div id="schedulerStatus" class="status" style="margin-top:16px;">
+            Scheduler: <span>Stopped</span>
+        </div>
+    </div>
+
+    <!-- ================= AGENT FLOW ================= -->
+    <div class="card">
+        <h2>🤖 Agentic AI Flow</h2>
+        <ul>
+            <li>🔍 Discover new tenders automatically</li>
+            <li>📄 Download tender PDFs</li>
+            <li>🧠 Extract technical requirements</li>
+            <li>🛠 Match SKUs with confidence score</li>
+            <li>💰 Estimate pricing & tests</li>
+            <li>📄 Auto-generate professional bid PDF</li>
+        </ul>
+    </div>
+
+</div>
+
+<footer>
+    © 2025 Agentic AI Tender Automation | Hackathon-Ready | Enterprise Grade
+</footer>
+
+<!-- ================= SCRIPT ================= -->
+<script>
+const API = "http://127.0.0.1:8000";
+
+async function fetchTender() {
+    const url = document.getElementById("tenderUrl").value;
+    const status = document.getElementById("fetchStatus");
+
+    if (!url) {
+        alert("Please enter tender URL");
+        return;
+    }
+
+    status.innerHTML = "Status: <span>Fetching tender PDFs...</span>";
+
+    await fetch(`${API}/fetch-tender?site_url=${encodeURIComponent(url)}`, {
+        method: "POST"
+    });
+
+    loadStatus();
+}
+
+async function startScheduler() {
+    const freq = document.getElementById("frequency").value;
+    const url = document.getElementById("tenderUrl").value;
+    const status = document.getElementById("schedulerStatus");
+
+    if (!url) {
+        alert("Please enter tender URL");
+        return;
+    }
+
+    await fetch(`${API}/start-scheduler/${freq}?site_url=${encodeURIComponent(url)}`, {
+        method: "POST"
+    });
+
+    status.innerHTML = `Scheduler: <span>Running every ${freq} minutes</span>`;
+}
+
+async function loadStatus() {
+    const res = await fetch(`${API}/status`);
+    const data = await res.json();
+
+    document.getElementById("fetchStatus").innerHTML =
+        "Status:<br/>" + data.logs.map(l => "• " + l).join("<br/>");
+}
+
+setInterval(loadStatus, 3000);
+</script>
+
+
+</body>
+</html>

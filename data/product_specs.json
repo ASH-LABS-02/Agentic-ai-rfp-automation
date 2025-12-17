@@ -1,0 +1,4862 @@
+[
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "cores": 4.0,
+    "cross_section_sqmm": 16,
+    "weight_kg_per_km": {
+      "wire_armour": 862,
+      "strip_armour": 640
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-16",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "ac_resistance_90c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 4.0,
+    "cross_section_sqmm": 25,
+    "weight_kg_per_km": {
+      "wire_armour": 1031,
+      "strip_armour": 792
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-25",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 4.0,
+    "cross_section_sqmm": 35,
+    "weight_kg_per_km": {
+      "wire_armour": 1212,
+      "strip_armour": 959
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-35",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 4.0,
+    "cross_section_sqmm": 50,
+    "weight_kg_per_km": {
+      "wire_armour": 1515,
+      "strip_armour": 1214
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-50",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 4.0,
+    "cross_section_sqmm": 70,
+    "weight_kg_per_km": {
+      "wire_armour": 2112,
+      "strip_armour": 1581
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-70",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 95,
+    "weight_kg_per_km": {
+      "wire_armour": 2606,
+      "strip_armour": 1975
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-95",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 120,
+    "weight_kg_per_km": {
+      "wire_armour": 3102,
+      "strip_armour": 2422
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-120",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 150,
+    "weight_kg_per_km": {
+      "wire_armour": 3985,
+      "strip_armour": 2892
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-150",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 185,
+    "weight_kg_per_km": {
+      "wire_armour": 4761,
+      "strip_armour": 3542
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-185",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 4.0,
+    "cross_section_sqmm": 240,
+    "weight_kg_per_km": {
+      "wire_armour": 5824,
+      "strip_armour": 4453
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-240",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.7,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 4.0,
+    "cross_section_sqmm": 300,
+    "weight_kg_per_km": {
+      "wire_armour": 7518,
+      "strip_armour": 5394
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-300",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.7,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 4.0,
+    "cross_section_sqmm": 400,
+    "weight_kg_per_km": {
+      "wire_armour": 9179,
+      "strip_armour": 6779
+    },
+    "sku": "KEI-A2xfy/A2xwy-4.0C-400",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 1.8,
+    "overall_diameter_mm": {
+      "wire_armour": 21.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 457
+    },
+    "cores": 4.0,
+    "cross_section_sqmm": 16,
+    "sku": "KEI-A2xy-4.0C-16",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "ac_resistance_90c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 22.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 618
+    },
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 4.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-A2xy-4.0C-25",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 24.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 763
+    },
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 4.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-A2xy-4.0C-35",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 27.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 964
+    },
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 4.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-A2xy-4.0C-50",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 12,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 32.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1321
+    },
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 4.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-A2xy-4.0C-70",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 35.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1681
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-A2xy-4.0C-95",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.4,
+    "overall_diameter_mm": {
+      "wire_armour": 39.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2103
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-A2xy-4.0C-120",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.6,
+    "overall_diameter_mm": {
+      "wire_armour": 43.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2551
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-A2xy-4.0C-150",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.8,
+    "overall_diameter_mm": {
+      "wire_armour": 48.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3164
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-A2xy-4.0C-185",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 3.0,
+    "overall_diameter_mm": {
+      "wire_armour": 54.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4067
+    },
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 4.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-A2xy-4.0C-240",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.7,
+    "outer_sheath_thickness_mm": 3.2,
+    "overall_diameter_mm": {
+      "wire_armour": 60.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5012
+    },
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 4.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-A2xy-4.0C-300",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 53,
+    "inner_sheath_thickness_mm": 0.7,
+    "outer_sheath_thickness_mm": 3.6,
+    "overall_diameter_mm": {
+      "wire_armour": 68.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 6373
+    },
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 4.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-A2xy-4.0C-400",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 2.0,
+    "cross_section_sqmm": 25,
+    "weight_kg_per_km": {
+      "wire_armour": 797,
+      "strip_armour": 582
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-25",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 2.0,
+    "cross_section_sqmm": 35,
+    "weight_kg_per_km": {
+      "wire_armour": 880,
+      "strip_armour": 664
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-35",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 2.0,
+    "cross_section_sqmm": 50,
+    "weight_kg_per_km": {
+      "wire_armour": 1056,
+      "strip_armour": 808
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-50",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 2.0,
+    "cross_section_sqmm": 70,
+    "weight_kg_per_km": {
+      "wire_armour": 1287,
+      "strip_armour": 1013
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-70",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 95,
+    "weight_kg_per_km": {
+      "wire_armour": 1738,
+      "strip_armour": 1255
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-95",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 120,
+    "weight_kg_per_km": {
+      "wire_armour": 1967,
+      "strip_armour": 1464
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-120",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 150,
+    "weight_kg_per_km": {
+      "wire_armour": 2334,
+      "strip_armour": 1754
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-150",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 185,
+    "weight_kg_per_km": {
+      "wire_armour": 2763,
+      "strip_armour": 2105
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-185",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 2.0,
+    "cross_section_sqmm": 240,
+    "weight_kg_per_km": {
+      "wire_armour": 3568,
+      "strip_armour": 2556
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-240",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 2.0,
+    "cross_section_sqmm": 300,
+    "weight_kg_per_km": {
+      "wire_armour": 4273,
+      "strip_armour": 3102
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-300",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 2.0,
+    "cross_section_sqmm": 400,
+    "weight_kg_per_km": {
+      "wire_armour": 5600,
+      "strip_armour": 4230
+    },
+    "sku": "KEI-A2xfy/A2xwy-2.0C-400",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 19.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 400
+    },
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 2.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-A2xy-2.0C-25",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 20.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 469
+    },
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 2.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-A2xy-2.0C-35",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 22.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 588
+    },
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 2.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-A2xy-2.0C-50",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 12,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 24.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 743
+    },
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 2.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-A2xy-2.0C-70",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 28.1
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 974
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-A2xy-2.0C-95",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 30.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1159
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-A2xy-2.0C-120",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 33.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1386
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-A2xy-2.0C-150",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.4,
+    "overall_diameter_mm": {
+      "wire_armour": 36.9
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1728
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-A2xy-2.0C-185",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.6,
+    "overall_diameter_mm": {
+      "wire_armour": 40.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2155
+    },
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 2.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-A2xy-2.0C-240",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 2.8,
+    "overall_diameter_mm": {
+      "wire_armour": 45.7
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2649
+    },
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 2.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-A2xy-2.0C-300",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 53,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 3.0,
+    "overall_diameter_mm": {
+      "wire_armour": 49.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3530
+    },
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 2.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-A2xy-2.0C-400",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.7,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 22.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1249
+    },
+    "dc_resistance_20c_ohm_per_km": 1.15,
+    "ac_resistance_90c_ohm_per_km": 0.36,
+    "cores": 4.0,
+    "cross_section_sqmm": 16,
+    "sku": "KEI-2XWY/2XFY-4.0C-16",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 23.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1645
+    },
+    "dc_resistance_20c_ohm_per_km": 0.727,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 4.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-2XWY/2XFY-4.0C-25",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 26.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2070
+    },
+    "dc_resistance_20c_ohm_per_km": 0.524,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 4.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-2XWY/2XFY-4.0C-35",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 1.0,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 29.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2676
+    },
+    "dc_resistance_20c_ohm_per_km": 0.387,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 4.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-2XWY/2XFY-4.0C-50",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 12,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 34.1
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3791
+    },
+    "dc_resistance_20c_ohm_per_km": 0.268,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 4.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-2XWY/2XFY-4.0C-70",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 15,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.72,
+    "overall_diameter_mm": {
+      "wire_armour": 37.9
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4938
+    },
+    "dc_resistance_20c_ohm_per_km": 0.193,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-2XWY/2XFY-4.0C-95",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.2,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.88,
+    "overall_diameter_mm": {
+      "wire_armour": 41.9
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 6042
+    },
+    "dc_resistance_20c_ohm_per_km": 0.153,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-2XWY/2XFY-4.0C-120",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.4,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.04,
+    "overall_diameter_mm": {
+      "wire_armour": 46.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 7611
+    },
+    "dc_resistance_20c_ohm_per_km": 0.124,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-2XWY/2XFY-4.0C-150",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 30,
+    "insulation_thickness_mm": 1.6,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 51.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 9298
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0991,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-2XWY/2XFY-4.0C-185",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.7,
+    "inner_sheath_thickness_mm": 0.6,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.36,
+    "overall_diameter_mm": {
+      "wire_armour": 57.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 11794
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0754,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 4.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-2XWY/2XFY-4.0C-240",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.8,
+    "inner_sheath_thickness_mm": 0.7,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.52,
+    "overall_diameter_mm": {
+      "wire_armour": 64.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 15019
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0601,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 4.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-2XWY/2XFY-4.0C-300",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 53,
+    "insulation_thickness_mm": 2.0,
+    "inner_sheath_thickness_mm": 0.7,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.84,
+    "overall_diameter_mm": {
+      "wire_armour": 72.1
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 18752
+    },
+    "dc_resistance_20c_ohm_per_km": 0.047,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 4.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-2XWY/2XFY-4.0C-400",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.7,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 1.8,
+    "overall_diameter_mm": {
+      "wire_armour": 21.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 843
+    },
+    "dc_resistance_20c_ohm_per_km": 1.15,
+    "ac_resistance_90c_ohm_per_km": 0.36,
+    "cores": 4.0,
+    "cross_section_sqmm": 16,
+    "sku": "KEI-2XY-4.0C-16",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 22.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1232
+    },
+    "dc_resistance_20c_ohm_per_km": 0.727,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 4.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-2XY-4.0C-25",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 24.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1620
+    },
+    "dc_resistance_20c_ohm_per_km": 0.524,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 4.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-2XY-4.0C-35",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 1.0,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 27.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2125
+    },
+    "dc_resistance_20c_ohm_per_km": 0.387,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 4.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-2XY-4.0C-50",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 12,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 32.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3000
+    },
+    "dc_resistance_20c_ohm_per_km": 0.268,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 4.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-2XY-4.0C-70",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 15,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 35.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4013
+    },
+    "dc_resistance_20c_ohm_per_km": 0.193,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-2XY-4.0C-95",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.2,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.4,
+    "overall_diameter_mm": {
+      "wire_armour": 39.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5043
+    },
+    "dc_resistance_20c_ohm_per_km": 0.153,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-2XY-4.0C-120",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.4,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.6,
+    "overall_diameter_mm": {
+      "wire_armour": 43.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 6176
+    },
+    "dc_resistance_20c_ohm_per_km": 0.124,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-2XY-4.0C-150",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 30,
+    "insulation_thickness_mm": 1.6,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.8,
+    "overall_diameter_mm": {
+      "wire_armour": 48.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 7701
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0991,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 4.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-2XY-4.0C-185",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.7,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 3.0,
+    "overall_diameter_mm": {
+      "wire_armour": 54.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 10037
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0754,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 4.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-2XY-4.0C-240",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.8,
+    "inner_sheath_thickness_mm": 0.7,
+    "outer_sheath_thickness_mm": 3.2,
+    "overall_diameter_mm": {
+      "wire_armour": 60.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 12513
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0601,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 4.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-2XY-4.0C-300",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "4core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 53,
+    "insulation_thickness_mm": 2.0,
+    "inner_sheath_thickness_mm": 0.7,
+    "outer_sheath_thickness_mm": 3.6,
+    "overall_diameter_mm": {
+      "wire_armour": 68.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 15945
+    },
+    "dc_resistance_20c_ohm_per_km": 0.047,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 4.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-2XY-4.0C-400",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 23.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1556
+    },
+    "dc_resistance_20c_ohm_per_km": 0.727,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 3.5,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-2XWY/2XFY-3.5C-25",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 25.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1887
+    },
+    "dc_resistance_20c_ohm_per_km": 0.524,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 3.5,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-2XWY/2XFY-3.5C-35",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 29.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2651
+    },
+    "dc_resistance_20c_ohm_per_km": 0.387,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 3.5,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-2XWY/2XFY-3.5C-50",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 34.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3479
+    },
+    "dc_resistance_20c_ohm_per_km": 0.268,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 3.5,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-2XWY/2XFY-3.5C-70",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 37.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4476
+    },
+    "dc_resistance_20c_ohm_per_km": 0.193,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-2XWY/2XFY-3.5C-95",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.72,
+    "overall_diameter_mm": {
+      "wire_armour": 40.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5487
+    },
+    "dc_resistance_20c_ohm_per_km": 0.153,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-2XWY/2XFY-3.5C-120",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.88,
+    "overall_diameter_mm": {
+      "wire_armour": 45.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 6523
+    },
+    "dc_resistance_20c_ohm_per_km": 0.124,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-2XWY/2XFY-3.5C-150",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.04,
+    "overall_diameter_mm": {
+      "wire_armour": 49.7
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 8325
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0991,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-2XWY/2XFY-3.5C-185",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 55.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 10510
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0754,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 3.5,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-2XWY/2XFY-3.5C-240",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.36,
+    "overall_diameter_mm": {
+      "wire_armour": 59.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 12705
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0601,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.5,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-2XWY/2XFY-3.5C-300",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.7,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.68,
+    "overall_diameter_mm": {
+      "wire_armour": 69.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 16653
+    },
+    "dc_resistance_20c_ohm_per_km": 0.047,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.5,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-2XWY/2XFY-3.5C-400",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 22.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1143
+    },
+    "dc_resistance_20c_ohm_per_km": 0.727,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 3.5,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-2XY-3.5C-25",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 24.1
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1436
+    },
+    "dc_resistance_20c_ohm_per_km": 0.524,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 3.5,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-2XY-3.5C-35",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 27.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1914
+    },
+    "dc_resistance_20c_ohm_per_km": 0.387,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 3.5,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-2XY-3.5C-50",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 31.9
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2688
+    },
+    "dc_resistance_20c_ohm_per_km": 0.268,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 3.5,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-2XY-3.5C-70",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 35.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3579
+    },
+    "dc_resistance_20c_ohm_per_km": 0.193,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-2XY-3.5C-95",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 37.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4498
+    },
+    "dc_resistance_20c_ohm_per_km": 0.153,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-2XY-3.5C-120",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.4,
+    "overall_diameter_mm": {
+      "wire_armour": 42.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5416
+    },
+    "dc_resistance_20c_ohm_per_km": 0.124,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-2XY-3.5C-150",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.6,
+    "overall_diameter_mm": {
+      "wire_armour": 46.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 6791
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0991,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-2XY-3.5C-185",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 2.8,
+    "overall_diameter_mm": {
+      "wire_armour": 52.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 8812
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0754,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 3.5,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-2XY-3.5C-240",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 3.0,
+    "overall_diameter_mm": {
+      "wire_armour": 56.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 10881
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0601,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.5,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-2XY-3.5C-300",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": null,
+    "insulation_thickness_mm": null,
+    "inner_sheath_thickness_mm": 0.7,
+    "outer_sheath_thickness_mm": 3.4,
+    "overall_diameter_mm": {
+      "wire_armour": 65.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 13914
+    },
+    "dc_resistance_20c_ohm_per_km": 0.047,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.5,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-2XY-3.5C-400",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 21.7
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1322
+    },
+    "dc_resistance_20c_ohm_per_km": 0.727,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 3.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-2XWY/2XFY-3.0C-25",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 23.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1673
+    },
+    "dc_resistance_20c_ohm_per_km": 0.524,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 3.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-2XWY/2XFY-3.0C-35",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 1.0,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 26.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2122
+    },
+    "dc_resistance_20c_ohm_per_km": 0.387,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 3.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-2XWY/2XFY-3.0C-50",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 12,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 31.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3048
+    },
+    "dc_resistance_20c_ohm_per_km": 0.268,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 3.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-2XWY/2XFY-3.0C-70",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 15,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 33.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3840
+    },
+    "dc_resistance_20c_ohm_per_km": 0.193,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-2XWY/2XFY-3.0C-95",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.2,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.72,
+    "overall_diameter_mm": {
+      "wire_armour": 38.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4753
+    },
+    "dc_resistance_20c_ohm_per_km": 0.153,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-2XWY/2XFY-3.0C-120",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.4,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.88,
+    "overall_diameter_mm": {
+      "wire_armour": 42.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5746
+    },
+    "dc_resistance_20c_ohm_per_km": 0.124,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-2XWY/2XFY-3.0C-150",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 30,
+    "insulation_thickness_mm": 1.6,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.04,
+    "overall_diameter_mm": {
+      "wire_armour": 47.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 7333
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0991,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-2XWY/2XFY-3.0C-185",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.7,
+    "inner_sheath_thickness_mm": 0.6,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 50.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 9093
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0754,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 3.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-2XWY/2XFY-3.0C-240",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.8,
+    "inner_sheath_thickness_mm": 0.6,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.36,
+    "overall_diameter_mm": {
+      "wire_armour": 55.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 11119
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0601,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-2XWY/2XFY-3.0C-300",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 53,
+    "insulation_thickness_mm": 2.0,
+    "inner_sheath_thickness_mm": 0.7,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.68,
+    "overall_diameter_mm": {
+      "wire_armour": 63.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 14533
+    },
+    "dc_resistance_20c_ohm_per_km": 0.047,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-2XWY/2XFY-3.0C-400",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 20.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 962
+    },
+    "dc_resistance_20c_ohm_per_km": 0.727,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 3.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-2XY-3.0C-25",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 22.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1260
+    },
+    "dc_resistance_20c_ohm_per_km": 0.524,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 3.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-2XY-3.0C-35",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 1.0,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 25.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1651
+    },
+    "dc_resistance_20c_ohm_per_km": 0.387,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 3.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-2XY-3.0C-50",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 12,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 29.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2317
+    },
+    "dc_resistance_20c_ohm_per_km": 0.268,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 3.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-2XY-3.0C-70",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 15,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 31.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3071
+    },
+    "dc_resistance_20c_ohm_per_km": 0.193,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-2XY-3.0C-95",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.2,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 36.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3831
+    },
+    "dc_resistance_20c_ohm_per_km": 0.153,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-2XY-3.0C-120",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.4,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.4,
+    "overall_diameter_mm": {
+      "wire_armour": 39.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4722
+    },
+    "dc_resistance_20c_ohm_per_km": 0.124,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-2XY-3.0C-150",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 30,
+    "insulation_thickness_mm": 1.6,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.6,
+    "overall_diameter_mm": {
+      "wire_armour": 43.7
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5863
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0991,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-2XY-3.0C-185",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.7,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 2.8,
+    "overall_diameter_mm": {
+      "wire_armour": 47.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 7595
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0754,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 3.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-2XY-3.0C-240",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.8,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 3.0,
+    "overall_diameter_mm": {
+      "wire_armour": 52.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 9426
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0601,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-2XY-3.0C-300",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 53,
+    "insulation_thickness_mm": 2.0,
+    "inner_sheath_thickness_mm": 0.7,
+    "outer_sheath_thickness_mm": 3.2,
+    "overall_diameter_mm": {
+      "wire_armour": 59.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 12032
+    },
+    "dc_resistance_20c_ohm_per_km": 0.047,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-2XY-3.0C-400",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 21.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1103
+    },
+    "dc_resistance_20c_ohm_per_km": 0.727,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 2.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-2XWY/2XFY-2.0C-25",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 22.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1309
+    },
+    "dc_resistance_20c_ohm_per_km": 0.524,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 2.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-2XWY/2XFY-2.0C-35",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 1.0,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.4,
+    "overall_diameter_mm": {
+      "wire_armour": 24.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1626
+    },
+    "dc_resistance_20c_ohm_per_km": 0.387,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 2.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-2XWY/2XFY-2.0C-50",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 12,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.3,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 27.1
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2126
+    },
+    "dc_resistance_20c_ohm_per_km": 0.268,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 2.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-2XWY/2XFY-2.0C-70",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 15,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 30.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2904
+    },
+    "dc_resistance_20c_ohm_per_km": 0.193,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-2XWY/2XFY-2.0C-95",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.2,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.56,
+    "overall_diameter_mm": {
+      "wire_armour": 32.7
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3436
+    },
+    "dc_resistance_20c_ohm_per_km": 0.153,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-2XWY/2XFY-2.0C-120",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.4,
+    "inner_sheath_thickness_mm": 0.4,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.72,
+    "overall_diameter_mm": {
+      "wire_armour": 36.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4150
+    },
+    "dc_resistance_20c_ohm_per_km": 0.124,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-2XWY/2XFY-2.0C-150",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 30,
+    "insulation_thickness_mm": 1.6,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 1.88,
+    "overall_diameter_mm": {
+      "wire_armour": 39.9
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5032
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0991,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-2XWY/2XFY-2.0C-185",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.7,
+    "inner_sheath_thickness_mm": 0.5,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.04,
+    "overall_diameter_mm": {
+      "wire_armour": 43.9
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 6553
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0754,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 2.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-2XWY/2XFY-2.0C-240",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.8,
+    "inner_sheath_thickness_mm": 0.6,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 49.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 8024
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0601,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 2.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-2XWY/2XFY-2.0C-300",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XWY/2XFY",
+    "no_of_strands": 53,
+    "insulation_thickness_mm": 2.0,
+    "inner_sheath_thickness_mm": 0.6,
+    "armour_size": "4x0.8",
+    "outer_sheath_thickness_mm": 2.36,
+    "overall_diameter_mm": {
+      "wire_armour": 54.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 9688
+    },
+    "dc_resistance_20c_ohm_per_km": 0.047,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 2.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-2XWY/2XFY-2.0C-400",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 19.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 706
+    },
+    "dc_resistance_20c_ohm_per_km": 0.727,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 2.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-2XY-2.0C-25",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 0.9,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 20.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 898
+    },
+    "dc_resistance_20c_ohm_per_km": 0.524,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 2.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-2XY-2.0C-35",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 6,
+    "insulation_thickness_mm": 1.0,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 22.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1158
+    },
+    "dc_resistance_20c_ohm_per_km": 0.387,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 2.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-2XY-2.0C-50",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 12,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 24.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1582
+    },
+    "dc_resistance_20c_ohm_per_km": 0.268,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 2.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-2XY-2.0C-70",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 15,
+    "insulation_thickness_mm": 1.1,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 28.1
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2140
+    },
+    "dc_resistance_20c_ohm_per_km": 0.193,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-2XY-2.0C-95",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.2,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 30.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2628
+    },
+    "dc_resistance_20c_ohm_per_km": 0.153,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-2XY-2.0C-120",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 18,
+    "insulation_thickness_mm": 1.4,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 33.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3202
+    },
+    "dc_resistance_20c_ohm_per_km": 0.124,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-2XY-2.0C-150",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 30,
+    "insulation_thickness_mm": 1.6,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.4,
+    "overall_diameter_mm": {
+      "wire_armour": 36.9
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3997
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0991,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 2.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-2XY-2.0C-185",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.7,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.6,
+    "overall_diameter_mm": {
+      "wire_armour": 40.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5140
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0754,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 2.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-2XY-2.0C-240",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 34,
+    "insulation_thickness_mm": 1.8,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 2.8,
+    "overall_diameter_mm": {
+      "wire_armour": 45.7
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 6400
+    },
+    "dc_resistance_20c_ohm_per_km": 0.0601,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 2.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-2XY-2.0C-300",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "2core-copper-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "2XY",
+    "no_of_strands": 53,
+    "insulation_thickness_mm": 2.0,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 3.0,
+    "overall_diameter_mm": {
+      "wire_armour": 49.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 7732
+    },
+    "dc_resistance_20c_ohm_per_km": 0.047,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 2.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-2XY-2.0C-400",
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 3.5,
+    "cross_section_sqmm": 25,
+    "weight_kg_per_km": {
+      "wire_armour": 999,
+      "strip_armour": 760
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-25",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 3.5,
+    "cross_section_sqmm": 35,
+    "weight_kg_per_km": {
+      "wire_armour": 1146,
+      "strip_armour": 885
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-35",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 3.5,
+    "cross_section_sqmm": 50,
+    "weight_kg_per_km": {
+      "wire_armour": 1427,
+      "strip_armour": 1114
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-50",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 3.5,
+    "cross_section_sqmm": 70,
+    "weight_kg_per_km": {
+      "wire_armour": 2006,
+      "strip_armour": 1473
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-70",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 95,
+    "weight_kg_per_km": {
+      "wire_armour": 2436,
+      "strip_armour": 1834
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-95",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 120,
+    "weight_kg_per_km": {
+      "wire_armour": 2863,
+      "strip_armour": 2220
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-120",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 150,
+    "weight_kg_per_km": {
+      "wire_armour": 3378,
+      "strip_armour": 2623
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-150",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 185,
+    "weight_kg_per_km": {
+      "wire_armour": 4339,
+      "strip_armour": 3179
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-185",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 3.5,
+    "cross_section_sqmm": 240,
+    "weight_kg_per_km": {
+      "wire_armour": 5298,
+      "strip_armour": 3981
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-240",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.5,
+    "cross_section_sqmm": 300,
+    "weight_kg_per_km": {
+      "wire_armour": 6172,
+      "strip_armour": 4750
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-300",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.7,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.5,
+    "cross_section_sqmm": 400,
+    "weight_kg_per_km": {
+      "wire_armour": 8341,
+      "strip_armour": 6030
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.5C-400",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 22.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 587
+    },
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 3.5,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-A2xy-3.5C-25",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 24.1
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 694
+    },
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 3.5,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-A2xy-3.5C-35",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 27.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 890
+    },
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 3.5,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-A2xy-3.5C-50",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 31.9
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1215
+    },
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 3.5,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-A2xy-3.5C-70",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 35.5
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1540
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-A2xy-3.5C-95",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 37.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1875
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-A2xy-3.5C-120",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.4,
+    "overall_diameter_mm": {
+      "wire_armour": 42.8
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2271
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-A2xy-3.5C-150",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.6,
+    "overall_diameter_mm": {
+      "wire_armour": 46.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2805
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.5,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-A2xy-3.5C-185",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 2.8,
+    "overall_diameter_mm": {
+      "wire_armour": 52.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3599
+    },
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 3.5,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-A2xy-3.5C-240",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 3.0,
+    "overall_diameter_mm": {
+      "wire_armour": 56.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4348
+    },
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.5,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-A2xy-3.5C-300",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3.5core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.7,
+    "outer_sheath_thickness_mm": 3.4,
+    "overall_diameter_mm": {
+      "wire_armour": 65.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 5629
+    },
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.5,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-A2xy-3.5C-400",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 3.0,
+    "cross_section_sqmm": 25,
+    "weight_kg_per_km": {
+      "wire_armour": 861,
+      "strip_armour": 654
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-25",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 3.0,
+    "cross_section_sqmm": 35,
+    "weight_kg_per_km": {
+      "wire_armour": 1028,
+      "strip_armour": 789
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-35",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.3,
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 3.0,
+    "cross_section_sqmm": 50,
+    "weight_kg_per_km": {
+      "wire_armour": 1252,
+      "strip_armour": 966
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-50",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 3.0,
+    "cross_section_sqmm": 70,
+    "weight_kg_per_km": {
+      "wire_armour": 1790,
+      "strip_armour": 1290
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-70",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 95,
+    "weight_kg_per_km": {
+      "wire_armour": 2091,
+      "strip_armour": 1575
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-95",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.4,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 120,
+    "weight_kg_per_km": {
+      "wire_armour": 2549,
+      "strip_armour": 2926
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-120",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 150,
+    "weight_kg_per_km": {
+      "wire_armour": 3020,
+      "strip_armour": 2317
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-150",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.5,
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 185,
+    "weight_kg_per_km": {
+      "wire_armour": 3940,
+      "strip_armour": 2808
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-185",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 3.0,
+    "cross_section_sqmm": 240,
+    "weight_kg_per_km": {
+      "wire_armour": 4616,
+      "strip_armour": 3453
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-240",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.6,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.0,
+    "cross_section_sqmm": 300,
+    "weight_kg_per_km": {
+      "wire_armour": 5495,
+      "strip_armour": 4169
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-300",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xfy/A2xwy",
+    "no_of_strands": null,
+    "inner_sheath_thickness_mm": 0.7,
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.0,
+    "cross_section_sqmm": 400,
+    "weight_kg_per_km": {
+      "wire_armour": 6354,
+      "strip_armour": 5267
+    },
+    "sku": "KEI-A2xfy/A2xwy-3.0C-400",
+    "insulation_thickness_mm": null,
+    "outer_sheath_thickness_mm": null,
+    "overall_diameter_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 20.3
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 502
+    },
+    "ac_resistance_90c_ohm_per_km": 0.2,
+    "cores": 3.0,
+    "cross_section_sqmm": 25,
+    "sku": "KEI-A2xy-3.0C-25",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 22.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 616
+    },
+    "ac_resistance_90c_ohm_per_km": 0.23,
+    "cores": 3.0,
+    "cross_section_sqmm": 35,
+    "sku": "KEI-A2xy-3.0C-35",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 6,
+    "inner_sheath_thickness_mm": 0.3,
+    "outer_sheath_thickness_mm": 2.0,
+    "overall_diameter_mm": {
+      "wire_armour": 25.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 782
+    },
+    "ac_resistance_90c_ohm_per_km": 0.24,
+    "cores": 3.0,
+    "cross_section_sqmm": 50,
+    "sku": "KEI-A2xy-3.0C-50",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 12,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 29.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1059
+    },
+    "ac_resistance_90c_ohm_per_km": 0.26,
+    "cores": 3.0,
+    "cross_section_sqmm": 70,
+    "sku": "KEI-A2xy-3.0C-70",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 31.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1322
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 95,
+    "sku": "KEI-A2xy-3.0C-95",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.4,
+    "outer_sheath_thickness_mm": 2.2,
+    "overall_diameter_mm": {
+      "wire_armour": 36.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1626
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 120,
+    "sku": "KEI-A2xy-3.0C-120",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 15,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.4,
+    "overall_diameter_mm": {
+      "wire_armour": 39.6
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 1997
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 150,
+    "sku": "KEI-A2xy-3.0C-150",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.5,
+    "outer_sheath_thickness_mm": 2.6,
+    "overall_diameter_mm": {
+      "wire_armour": 43.7
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 2461
+    },
+    "ac_resistance_90c_ohm_per_km": 0.29,
+    "cores": 3.0,
+    "cross_section_sqmm": 185,
+    "sku": "KEI-A2xy-3.0C-185",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 2.8,
+    "overall_diameter_mm": {
+      "wire_armour": 47.0
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3118
+    },
+    "ac_resistance_90c_ohm_per_km": 0.31,
+    "cores": 3.0,
+    "cross_section_sqmm": 240,
+    "sku": "KEI-A2xy-3.0C-240",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 30,
+    "inner_sheath_thickness_mm": 0.6,
+    "outer_sheath_thickness_mm": 3.0,
+    "overall_diameter_mm": {
+      "wire_armour": 52.4
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 3801
+    },
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.0,
+    "cross_section_sqmm": 300,
+    "sku": "KEI-A2xy-3.0C-300",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  },
+  {
+    "manufacturer": "KEI",
+    "source_pdf": "3core-aluminium-xlpe-armoured.pdf",
+    "product_family": "XLPE Power Cable",
+    "voltage_grade": "1.1 kV",
+    "standard": "IS 7098",
+    "type_code": "A2xy",
+    "no_of_strands": 53,
+    "inner_sheath_thickness_mm": 0.7,
+    "outer_sheath_thickness_mm": 3.2,
+    "overall_diameter_mm": {
+      "wire_armour": 59.2
+    },
+    "weight_kg_per_km": {
+      "wire_armour": 4853
+    },
+    "ac_resistance_90c_ohm_per_km": 0.33,
+    "cores": 3.0,
+    "cross_section_sqmm": 400,
+    "sku": "KEI-A2xy-3.0C-400",
+    "insulation_thickness_mm": null,
+    "dc_resistance_20c_ohm_per_km": null,
+    "reactance_50hz_ohm_per_km": null,
+    "capacitance_mfd_per_km": null,
+    "current_rating_ground_amp": null,
+    "current_rating_air_amp": null
+  }
+]

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Government e-Tender Portal</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #F8FAFC;
+}
+
+header {
+    background: #1E3A8A;
+    color: white;
+    padding: 20px 40px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.container {
+    padding: 30px 40px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 14px;
+    border-bottom: 1px solid #E5E7EB;
+    text-align: left;
+}
+
+th {
+    background: #EFF6FF;
+}
+
+a {
+    color: #2563EB;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.status {
+    color: green;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background: #F1F5F9;
+    text-align: center;
+    font-size: 13px;
+    color: #475569;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>📄 National e-Tendering Portal</h1>
+    <p>Public Sector & Government Procurement</p>
+</header>
+
+<div class="container">
+
+<h2>Active Tenders</h2>
+
+<table>
+<thead>
+<tr>
+    <th>Tender ID</th>
+    <th>Organisation</th>
+    <th>Description</th>
+    <th>Status</th>
+    <th>Download</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+    <td>IOCL/ENG/2025/041</td>
+    <td>Indian Oil Corporation</td>
+    <td>Supply of LT Aluminium Power Cables</td>
+    <td class="status">OPEN</td>
+    <td>
+        <a href="indianoil.pdf" target="_blank">
+            Download PDF
+        </a>
+    </td>
+</tr>
+
+<tr>
+    <td>NTPC/ELE/2025/118</td>
+    <td>NTPC Limited</td>
+    <td>Supply of LT Aerial Bunched Cables</td>
+    <td class="status">OPEN</td>
+    <td>
+        <a href="Lt_cable.pdf" target="_blank">
+            Download PDF
+        </a>
+    </td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<footer>
+© Government of India | Mock Tender Portal for Demonstration
+</footer>
+
+</body>
+</html>
